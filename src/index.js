@@ -1,3 +1,6 @@
+import 'react-app-polyfill/ie9';
+import 'react-app-polyfill/stable';
+
 import React from 'react'
 import { render } from 'react-dom'
 import { Provider } from 'react-redux'
@@ -13,10 +16,7 @@ import {checkMiddleware} from './redux/middleware'
 
 const store = createStore(
   rootReducer,
-  compose(
-    applyMiddleware(thunk, checkMiddleware),
-  window.__REDUX_DEVTOOLS_EXTENSION__ && window.__REDUX_DEVTOOLS_EXTENSION__()
-))
+  compose(applyMiddleware(thunk, checkMiddleware)))
 
 render(
   <React.StrictMode>
