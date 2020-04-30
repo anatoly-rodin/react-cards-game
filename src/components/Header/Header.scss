@@ -1,5 +1,12 @@
 .app-header {
+  height: 70px;
   padding: 10px 0;
+
+  .navbar {
+    height: 50px;
+    padding: 0;
+  }
+
 
   &__logo {
     display: inline-block;
