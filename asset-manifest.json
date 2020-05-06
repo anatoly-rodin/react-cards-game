@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/react-card-game/static/css/main.a01544e2.chunk.css",
+    "main.js": "/react-card-game/static/js/main.5ed6eea7.chunk.js",
+    "main.js.map": "/react-card-game/static/js/main.5ed6eea7.chunk.js.map",
+    "runtime-main.js": "/react-card-game/static/js/runtime-main.d378cc1a.js",
+    "runtime-main.js.map": "/react-card-game/static/js/runtime-main.d378cc1a.js.map",
+    "static/js/2.cfca31f1.chunk.js": "/react-card-game/static/js/2.cfca31f1.chunk.js",
+    "static/js/2.cfca31f1.chunk.js.map": "/react-card-game/static/js/2.cfca31f1.chunk.js.map",
+    "index.html": "/react-card-game/index.html",
+    "precache-manifest.664c51958ed9180dc1bc633e3e645583.js": "/react-card-game/precache-manifest.664c51958ed9180dc1bc633e3e645583.js",
+    "service-worker.js": "/react-card-game/service-worker.js",
+    "static/css/main.a01544e2.chunk.css.map": "/react-card-game/static/css/main.a01544e2.chunk.css.map",
+    "static/js/2.cfca31f1.chunk.js.LICENSE.txt": "/react-card-game/static/js/2.cfca31f1.chunk.js.LICENSE.txt",
+    "static/media/Card.scss": "/react-card-game/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d378cc1a.js",
+    "static/js/2.cfca31f1.chunk.js",
+    "static/css/main.a01544e2.chunk.css",
+    "static/js/main.5ed6eea7.chunk.js"
+  ]
+}
